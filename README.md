@@ -20,8 +20,7 @@ The system focuses on correctness, data handling, and structured program design 
 1. Java (Core Java)
 2. Object-Oriented Programming (OOP)
 3. JDBC / File Handling (based on implementation)
-4. Collections Framework
-5. Command Line / GUI Interface
+4. Command Line
 
 ✨ **Features**
 
